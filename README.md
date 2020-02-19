@@ -1,2 +1,2 @@
-system-design /n
-Resource :- https://github.com/donnemartin/system-design-primer
+system-design 
+   Resource :- https://github.com/donnemartin/system-design-primer
