@@ -1,3 +1,3 @@
 system-design 
-   Resource :- https://github.com/donnemartin/system-design-primer
+  Resource :- https://github.com/donnemartin/system-design-primer
    
